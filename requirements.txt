@@ -2,7 +2,7 @@ streamlit
 tensorflow==2.15.0
 numpy==1.26.4
 pandas
-scikit-learn
+scikit-learn==1.3.0
 matplotlib
 h5py
 scikeras==0.12.0
